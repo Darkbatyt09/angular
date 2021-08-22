@@ -1,4 +1,4 @@
-# Accessibility in Angular
+# darkbat
 
 The web is used by a wide variety of people, including those who have visual or motor impairments.
 A variety of assistive technologies are available that make it much easier for these groups to
